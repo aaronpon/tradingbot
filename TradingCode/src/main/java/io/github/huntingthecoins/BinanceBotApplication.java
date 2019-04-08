@@ -1,5 +1,5 @@
-import com.binance.api.client.BinanceApiClientFactory;
-import com.binance.api.client.BinanceApiWebSocketClient;
+package io.github.huntingthecoins;
+
 import com.binance.api.client.domain.account.AssetBalance;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

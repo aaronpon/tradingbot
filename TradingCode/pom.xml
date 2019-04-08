@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.huntingthecoins</groupId>
+    <groupId>io.github.unterstein</groupId>
     <artifactId>binancebot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -40,21 +40,6 @@
             <groupId>com.binance.api</groupId>
             <artifactId>binance-api-client</artifactId>
             <version>1.0.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.binance.api</groupId>
-            <artifactId>binance-api-client</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.binance.api</groupId>
-            <artifactId>binance-api-client</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-        <dependency>
-            <groupId>net.openhft.com.binance.api</groupId>
-            <artifactId>binance-api-client</artifactId>
-            <version>2.17.1</version>
         </dependency>
     </dependencies>
 

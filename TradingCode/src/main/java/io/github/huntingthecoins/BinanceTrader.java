@@ -1,3 +1,5 @@
+package io.github.huntingthecoins;
+
 import com.binance.api.client.domain.OrderStatus;
 import com.binance.api.client.domain.account.AssetBalance;
 import com.binance.api.client.domain.account.Order;
